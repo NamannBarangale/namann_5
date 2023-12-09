@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>
+    Form
+  </title>
+</head>
+
+<body>
+  <form>
+    <fieldset>
+      <legend>Personal details</legend>
+      <label>Name:</label>
+      <input type="text"><br><br>
+      <label>Surname:</label>
+      <input type="text"><br><br>
+      <label>Gender:</label><br>
+      <input type="radio">Male<br>
+      <input type="radio">Female<br>
+      <input type="radio">other<br><br>
+      <label>Email ID:</label>
+      <input type="email"><br><br>
+      <label>Password:</label>
+      <input type="password"><br><br>
+      <label>Birthdate:</label>
+      <input type="date"><br><br>
+      <label>Coutry</label>
+      <input type="checkbox">India<br>
+      <input type="checkbox">America<br>
+      <input type="checkbox">Australia<br><br>
+      <input type="submit">
+    </fieldset>
+  </form>
+</body>
+
+</html>
