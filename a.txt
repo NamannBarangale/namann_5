@@ -10,6 +10,7 @@
 <body>
   <form>
     <fieldset>
+<p>Registration form</p>
       <legend>Personal details</legend>
       <label>Name:</label>
       <input type="text"><br><br>
